@@ -8,7 +8,6 @@ public class DummyClass {
 		System.out.println("hello");
 		System.out.println("hello java");
 		System.out.println("test3");
-		System.out.println("test4");
 	}
 	
 	
